@@ -1,0 +1,17 @@
+export interface PokemonsGen {
+    abilities: any[];
+    id: number;
+    main_region: MainRegion;
+    moves: MainRegion[];
+    name: string;
+    names?: [];
+    pokemon_species: MainRegion[];
+    types: MainRegion[];
+    version_groups: MainRegion[];
+}
+
+export interface MainRegion {
+    name: string;
+    url: string;
+    id: string
+}
