@@ -1,4 +1,10 @@
+# Pokedex Web App
+
+## Descripción del proyecto
 Proyecto de una Pokédex realizada con NextJS. 
+
+![Captura de pantalla 2024-09-02 a las 18 31 43](https://github.com/user-attachments/assets/1de45b1e-abc9-4df0-8d89-ac4566c6df37)
+
 
 ## Funcionalidades
 
